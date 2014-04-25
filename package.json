@@ -8,10 +8,11 @@
     },
 
 	"devDependencies": {
+        "browserify": "*",
+        "browserify-shim": "*",
+        "partialify": "*",
 		"gulp": "3.6.x",
-		"browserify": "*",
-		"partialify": "*",
-		"gulp-rename": "*",
-		"gulp-browserify": "*"
+        "gulp-browserify": "*",
+        "gulp-rename": "*"
 	}
 }
