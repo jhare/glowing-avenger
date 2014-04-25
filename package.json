@@ -3,7 +3,7 @@
     "version": "0.0.1",
 
     "dependencies": {
-        
+        "dot": "1.0.x"        
     },
 
 	"devDependencies": {
